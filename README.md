@@ -1,7 +1,7 @@
 # Cust_Segmentation
 Customer segmentation - ML Kmeans
 
-Online Retail Project
+### Online Retail Project
 Within this notebook, I'll be clustering the customers of an online retailer based on their 1yr historical purchase history.
 
 Data has been downloaded from the UC Irvine Machine Learning Repository
